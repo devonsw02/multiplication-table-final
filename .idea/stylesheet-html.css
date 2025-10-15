@@ -1,0 +1,68 @@
+section.container {
+    width: 70vw;
+    height: 100vh;
+    margin: 0 auto;
+    border: 1px solid black;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+    .generate-box {
+        display: flex;
+        gap: 10px;
+
+        .inputs {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+
+            label {
+                display: flex;
+                gap: 10px;
+                justify-content: space-between;
+            }
+        }
+
+        button#generate.myBtn {
+            background-color: pink;
+        }
+    }
+
+    #output {
+        overflow: scroll;
+        max-width: 90vw;
+        max-height: 60vh;
+
+        table, th, tr, td {
+            border: 1px solid black;
+            border-collapse: collapse; /* Optional: to avoid double borders */
+
+            tr:first-of-type,
+            tr:last-of-type {
+                background-color: lightblue;
+            }
+
+            .highlight {
+                background-color: darkred;
+                color: white;
+            }
+
+            td {
+                padding: 2px;
+                text-align: center;
+
+                &:first-of-type,
+                &:last-of-type {
+                    background-color: lightblue;
+                }
+            }
+        }
+
+        tr:hover {
+            background-color: yellow;
+        }
+    }
+}

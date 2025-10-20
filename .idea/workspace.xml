@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e16819de-79e9-4ddb-9780-81dd056e7e43" name="Changes" comment="using-console" />
+    <list default="true" id="1f8110a9-3b71-4a79-92f9-ce503aed9396" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/vue-project/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/views/MultiplicationTable.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/forms-review.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/index-flex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/javascript-flex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/javascript-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/multiplication-table-final.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/student-data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/stylesheet-flex.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/stylesheet-html.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javacript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,24 +33,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="JavaScript File" />
-        <option value="HTML File" />
+        <option value="Vue Composition API Component" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "customColor": "",
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="346qH9nzzCtV77Z8ZmMpZvedNgr" />
+  <component name="ProjectId" id="34LRkSgoKBnyD8dpmAZ0IxxE01r" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -40,20 +54,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "using-html",
+    "git-widget-placeholder": "using-vue3-example",
     "junie.onboarding.icon.badge.shown": "true",
-    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/devonbadour/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -65,29 +82,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e16819de-79e9-4ddb-9780-81dd056e7e43" name="Changes" comment="" />
-      <created>1760544279005</created>
+      <changelist id="1f8110a9-3b71-4a79-92f9-ce503aed9396" name="Changes" comment="" />
+      <created>1760991008861</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1760544279005</updated>
-      <workItem from="1760544280101" duration="663000" />
+      <updated>1760991008861</updated>
+      <workItem from="1760991011048" duration="5678000" />
     </task>
-    <task id="LOCAL-00001" summary="using-console">
-      <option name="closed" value="true" />
-      <created>1760544652232</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1760544652232</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="using-console" />
-    <option name="LAST_COMMIT_MESSAGE" value="using-console" />
   </component>
 </project>

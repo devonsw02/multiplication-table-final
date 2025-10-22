@@ -12,14 +12,13 @@ console.log('How many rows do I have?' , rows)
 <h1>multiplication table lives here lol</h1>
 
   <div class="inputs">
-    <label id="rows"
+    <label id="rows">
            <span>Rows:</span>
-    <input id="number" id="rows" v-model:value="rows"/>
+    <input type="number" id="rows" v-model:value="rows"/>
     </label>
 
-    <label id="cols"
+    <label id="cols">
            <span>Cols:</span>
-    <input id="number" id="cols" v-model:value="cols"/>
     </label>
 
     <p>Hi There {{name}}, let's build our table:</p>
